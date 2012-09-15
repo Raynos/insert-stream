@@ -1,0 +1,34 @@
+{
+  "name": "insert-stream",
+  "version": "0.0.1",
+  "description": "Output stream for DOM insertion",
+  "keywords": [],
+  "author": "Raynos <raynos2@gmail.com>",
+  "repository": "git://github.com/Raynos/insert-stream.git",
+  "main": "index",
+  "homepage": "https://github.com/Raynos/insert-stream",
+  "contributors": [
+    {
+      "name": "Jake Verbaten"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/Raynos/insert-stream/issues",
+    "email": "raynos2@gmail.com"
+  },
+  "dependencies": {
+    "write-stream": "~0.1.0"
+  },
+  "devDependencies": {
+    "read-stream": "~0.2.0",
+    "browserify-server": "~1.2.2"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/Raynos/insert-stream/raw/master/LICENSE"
+    }
+  ],
+  "scripts": {
+  }
+}
